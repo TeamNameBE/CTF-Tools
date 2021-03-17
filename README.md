@@ -5,6 +5,7 @@ External tools for our ctfs
 
 ## Stego
   * [sonic visualizer](https://www.sonicvisualiser.org/)
+  * [Exiftool](https://github.com/exiftool/exiftool)
 
 ## Web
   * [sqlmap](https://github.com/andrewjkerr/security-cheatsheets/blob/master/sqlmap)
@@ -12,6 +13,8 @@ External tools for our ctfs
 
 ## Forensics
   * [Sans Dfir malicious document analysis](https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf)
+  * [Oleotools](https://github.com/decalage2/oletools/wiki)
+  * []()
 
 ## Network
   * [ncat](https://github.com/andrewjkerr/security-cheatsheets/blob/master/ncat)
