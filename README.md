@@ -8,6 +8,7 @@ External tools for our ctfs
 
 ## Web
   * [sqlmap](https://github.com/andrewjkerr/security-cheatsheets/blob/master/sqlmap)
+  * [LFI](https://ruuand.github.io/Local_File_Include/)
 
 ## Forensics
   * [Sans Dfir malicious document analysis](https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf)
