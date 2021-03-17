@@ -13,7 +13,8 @@ External tools for our ctfs
   * [Exiftool](https://github.com/exiftool/exiftool)
   * [stegonline](https://stegonline.georgeom.net/upload)
   * [stylesuxx](https://stylesuxx.github.io/steganography/)
-  * [image-steganography](https://incoherency.co.uk/image-steganography/)
+  * [image-steganography](https://incoherency.co.uk/image-steganography/)\
+  * [Stego sheet](https://0xrick.github.io/lists/stego/)
 
 ## Web
   * [sqlmap cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/sqlmap)
@@ -33,6 +34,7 @@ External tools for our ctfs
 
 ## Crypto
   * [pycryptodome](https://pycryptodome.readthedocs.io/en/latest/src/util/util.html)
+  * [twitter secret messages](https://twsteg.devsec.fr/)
 
 ## Pwn
   * [reverse shell](https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell)
@@ -51,3 +53,6 @@ External tools for our ctfs
 
 ## Lost ?
   * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+
+## Ultimate bible
+  * [Hack Tricks](https://book.hacktricks.xyz/)
