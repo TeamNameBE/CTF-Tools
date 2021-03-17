@@ -1,2 +1,14 @@
 # CTF-Tools
-All the tools to be used
+External tools for our ctfs
+
+## Reverse
+
+## Stego
+
+## Web
+
+## Forensics
+
+## Network
+
+## Crypto
