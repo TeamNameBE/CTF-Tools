@@ -4,6 +4,7 @@ External tools for our ctfs
 ## Reverse
 
 ## Stego
+  * [sonic visualizer](https://www.sonicvisualiser.org/)
 
 ## Web
   * [sqlmap](https://github.com/andrewjkerr/security-cheatsheets/blob/master/sqlmap)
