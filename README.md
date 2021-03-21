@@ -35,6 +35,7 @@ External tools for our ctfs
 ## Crypto
   * [pycryptodome](https://pycryptodome.readthedocs.io/en/latest/src/util/util.html)
   * [twitter secret messages](https://twsteg.devsec.fr/)
+  * [RSA wiener attack](https://github.com/pablocelayes/rsa-wiener-attack)
 
 ## Pwn
   * [reverse shell](https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell)
@@ -50,6 +51,7 @@ External tools for our ctfs
   * [Dcode](https://www.dcode.fr/en)
   * [Exploit DB](https://www.exploit-db.com/)
   * [Ciphey](https://github.com/Ciphey/Ciphey)
+  * [Wordlist - rockyou.txt]()
 
 ## Lost ?
   * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
