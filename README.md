@@ -13,7 +13,8 @@ External tools for our ctfs
   * [Exiftool](https://github.com/exiftool/exiftool)
   * [stegonline](https://stegonline.georgeom.net/upload)
   * [stylesuxx](https://stylesuxx.github.io/steganography/)
-  * [image-steganography](https://incoherency.co.uk/image-steganography/)\
+  * [image-steganography](https://incoherency.co.uk/image-steganography/)
+  * [LSB extractor](https://github.com/RobinDavid/LSB-Steganography)
   * [Stego sheet](https://0xrick.github.io/lists/stego/)
 
 ## Web
