@@ -27,6 +27,7 @@ External tools for our ctfs
   * [Volatility](https://github.com/volatilityfoundation/volatility)
   * [Binwalk]()
   * [Hexdump]()
+  * [RubberDucky](https://ducktoolkit.com/decode)
 
 ## Network
   * [ncat cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/ncat)
