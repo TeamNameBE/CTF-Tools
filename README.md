@@ -24,10 +24,13 @@ External tools for our ctfs
 ## Forensics
   * [Sans Dfir malicious document analysis cheatsheet](https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf)
   * [Oleotools](https://github.com/decalage2/oletools/wiki)
-  * [Volatility](https://github.com/volatilityfoundation/volatility)
+  * [Volatility](https://github.com/volatilityfoundation/volatility)\
+  * [Volatility cheatsheet](https://book.hacktricks.xyz/forensics/volatility-examples)
   * [Binwalk]()
   * [Hexdump]()
   * [RubberDucky](https://ducktoolkit.com/decode)
+  * [Open E01 file](https://www.andreafortuna.org/2018/04/11/how-to-mount-an-ewf-image-file-e01-on-linux/)
+  * [for BMC file](https://github.com/ANSSI-FR/bmc-tools)
 
 ## Network
   * [ncat cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/ncat)
