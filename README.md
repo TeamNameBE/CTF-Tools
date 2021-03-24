@@ -16,6 +16,7 @@ External tools for our ctfs
   * [image-steganography](https://incoherency.co.uk/image-steganography/)
   * [LSB extractor](https://github.com/RobinDavid/LSB-Steganography)
   * [Stego sheet](https://0xrick.github.io/lists/stego/)
+  * [BaseJumping]()
 
 ## Web
   * [sqlmap cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/sqlmap)
