@@ -25,7 +25,7 @@ External tools for our ctfs
 ## Forensics
   * [Sans Dfir malicious document analysis cheatsheet](https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf)
   * [Oleotools](https://github.com/decalage2/oletools/wiki)
-  * [Volatility](https://github.com/volatilityfoundation/volatility)\
+  * [Volatility](https://github.com/volatilityfoundation/volatility)
   * [Volatility cheatsheet](https://book.hacktricks.xyz/forensics/volatility-examples)
   * [Binwalk]()
   * [Hexdump]()
@@ -42,6 +42,7 @@ External tools for our ctfs
   * [pycryptodome](https://pycryptodome.readthedocs.io/en/latest/src/util/util.html)
   * [twitter secret messages](https://twsteg.devsec.fr/)
   * [RSA wiener attack](https://github.com/pablocelayes/rsa-wiener-attack)
+  * [Cisco password cracker](https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html)
 
 ## Pwn
   * [reverse shell](https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell)
