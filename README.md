@@ -43,6 +43,7 @@ External tools for our ctfs
   * [twitter secret messages](https://twsteg.devsec.fr/)
   * [RSA wiener attack](https://github.com/pablocelayes/rsa-wiener-attack)
   * [Cisco password cracker](https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html)
+  * [fcrackzip](https://github.com/hyc/fcrackzip)
 
 ## Pwn
   * [reverse shell](https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell)
