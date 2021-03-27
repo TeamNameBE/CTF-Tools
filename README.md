@@ -58,7 +58,7 @@ External tools for our ctfs
   * [Dcode](https://www.dcode.fr/en)
   * [Exploit DB](https://www.exploit-db.com/)
   * [Ciphey](https://github.com/Ciphey/Ciphey)
-  * [Wordlist - rockyou.txt]()
+  * [Wordlist - rockyou.txt](https://www.scrapmaker.com/data/wordlists/dictionaries/rockyou.txt)
 
 ## Lost ?
   * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
