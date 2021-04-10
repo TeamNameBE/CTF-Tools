@@ -4,7 +4,7 @@ External tools for our ctfs
 ## Reverse
   * [IDA]
   * [gdb]
-  * [Ghydra]
+  * [Ghidra]
   * [radare2]
   * [apktool](https://ibotpeaches.github.io/Apktool/)
 
