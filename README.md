@@ -9,6 +9,7 @@ External tools for our ctfs
   * [apktool](https://ibotpeaches.github.io/Apktool/)
 
 ## Stego
+  * Strings
   * [sonic visualizer](https://www.sonicvisualiser.org/)
   * [Exiftool](https://github.com/exiftool/exiftool)
   * [stegonline](https://stegonline.georgeom.net/upload)
