@@ -51,6 +51,7 @@ External tools for our ctfs
 ## Pwn
   * [reverse shell](https://github.com/andrewjkerr/security-cheatsheets/blob/master/reverse_shell)
   * [Pwntools](https://github.com/Gallopsled/pwntools/)
+  * [Privilege Escalation](https://steflan-security.com/linux-privilege-escalation-checklist/)
 
 ## Misc
   * [dig cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/dig)
