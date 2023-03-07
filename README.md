@@ -54,6 +54,7 @@ External tools for our ctfs
   * [Privilege Escalation](https://steflan-security.com/linux-privilege-escalation-checklist/)
 
 ## Misc
+  * [TIO.run](https://tio.run/#powershell) - run code online (various languages available)
   * [dig cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/dig)
   * [Local server](https://github.com/andrewjkerr/security-cheatsheets/blob/master/create_local_server)
   * [ftp cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/ftp)
