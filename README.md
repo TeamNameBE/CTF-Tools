@@ -7,6 +7,7 @@ External tools for our ctfs
   * [Ghidra]
   * [radare2]
   * [apktool](https://ibotpeaches.github.io/Apktool/)
+  * [dnSpy](https://github.com/dnSpy/dnSpy/releases) For DotNet & c# decompiling
 
 ## Stego
   * Strings
