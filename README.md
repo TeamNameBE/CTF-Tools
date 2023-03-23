@@ -21,6 +21,7 @@ External tools for our ctfs
   * [BaseJumping](https://github.com/TeamNameBE/CTF-Tools/blob/main/stegoTool/decodeBase.py)
   * [Baconian Decoder](https://github.com/TeamNameBE/CTF-Tools/blob/main/stegoTool/baconian.py)
   * [zsteg(png)](https://github.com/zed-0xff/zsteg)
+  * [All these gists](https://gist.github.com/dhondta)
 
 ## Web
   * [sqlmap cheatsheet](https://github.com/andrewjkerr/security-cheatsheets/blob/master/sqlmap)
